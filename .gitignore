@@ -1,1 +1,4 @@
 ai-vs-human-generated-dataset-hw/
+logs/
+params.json
+results.json
